@@ -1,6 +1,6 @@
 {
   "name": "jsf-decoder",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "description": "JSF Decoder plugin for Caido",
   "type": "module",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "id": "jsf-decoder",
   "name": "JSF Decoder",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "description": "Automatically detects and parses JavaServer Faces (JSF) request body parameters, decoding URL-encoded values and presenting them in a structured, human-readable format.",
   "author": {
     "name": "insomnia1102",

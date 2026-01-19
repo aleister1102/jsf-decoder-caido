@@ -5,7 +5,7 @@ export default defineConfig({
   id: "jsf-decoder",
   name: "JSF Decoder",
   description: "JSF request body parser and analyzer",
-  version: "0.1.0",
+  version: "1.0.4",
   author: {
     name: "insomnia1102",
   },
