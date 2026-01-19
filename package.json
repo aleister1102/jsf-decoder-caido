@@ -1,0 +1,26 @@
+{
+  "name": "jsf-decoder",
+  "version": "0.1.0",
+  "description": "JSF Decoder plugin for Caido",
+  "type": "module",
+  "scripts": {
+    "dev": "caido dev",
+    "build": "caido-dev build",
+    "watch": "caido-dev watch",
+    "package": "caido package",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test --run src/frontend/src/lib/*.test.ts"
+  },
+  "dependencies": {
+    "@caido/sdk-frontend": "^0.54.1",
+    "vue": "^3.3.0",
+    "prismjs": "^1.29.0"
+  },
+  "devDependencies": {
+    "@caido-community/dev": "^0.1.6",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "fast-check": "^3.13.0",
+    "@vitejs/plugin-vue": "^5.2.1"
+  }
+}
