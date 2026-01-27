@@ -15,7 +15,6 @@
         "@vitejs/plugin-vue": "^5.2.1",
         "fast-check": "^3.13.0",
         "typescript": "^5.0.0",
-        "vue": "^3.3.0",
       },
     },
   },
